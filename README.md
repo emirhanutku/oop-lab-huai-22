@@ -52,5 +52,3 @@ Welcome to the **Java Projects Repository**, a collection of four distinct Java-
 - **Documentation:** Command usage, device management, and execution rules are detailed in `instruction.pdf`.  
 
 ---
-
-## 📂 **File Structure**
